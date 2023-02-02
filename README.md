@@ -7,3 +7,5 @@ It`s time to read:
 * [ ] https://kickoff.pmi.org/app/getting-it-up-and-running/align-people-and-objectives/3
 * [ ] https://www.pmi.org/learning
 * [x] http://static.flibusta.site/b.fb2/Krasova_Piter-Druker.7dAzZA.198400.fb2.zip
+* [ ] https://ocw.mit.edu/courses/15-316-building-and-leading-effective-teams-summer-2005/ (course Building And Leading Effective Teams)
+Research: https://ocw.mit.edu/course-lists/entrepreneurship-core-courses-5/
